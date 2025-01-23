@@ -1,6 +1,8 @@
 # Line-Follower
 Basic line follower for Mechatronics Systems Design Class
 
+https://youtu.be/24mahV9Ft8s
+
 # BOM
 Motor DC Pololu 12V 10:1 HPCB
 
