@@ -11,4 +11,3 @@ Basic line follower for Mechatronics Systems Design Class
   Led
   Printed Wheels with nanotape as tyre
   CNHL LiPo 2S 450mAh
-![image](https://github.com/user-attachments/assets/47032276-2075-4196-905d-95cab402a97b)
